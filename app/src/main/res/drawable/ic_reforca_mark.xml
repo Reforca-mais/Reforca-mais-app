@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="250"
+    android:viewportHeight="240">
+
+    <!-- Purple R -->
+    <path
+        android:fillColor="#542E7A"
+        android:fillType="evenOdd"
+        android:pathData="M 28,24 L 180,24 C 222,24 244,48 244,78 C 244,110 220,132 178,132 L 246,234 L 192,234 L 108.4,102 L 62,72 Z M 88,72 L 88,44 L 166,44 C 186,44 198,56 198,72 Z" />
+
+    <!-- Golden Slanted + Cross -->
+    <path
+        android:fillColor="#BA8518"
+        android:pathData="M 98,4 L 136,4 L 116.9,72 L 176,72 L 176,102 L 108.4,102 L 91,164 L 53,164 L 70.4,102 L 4,102 L 4,72 L 78.9,72 Z" />
+</vector>

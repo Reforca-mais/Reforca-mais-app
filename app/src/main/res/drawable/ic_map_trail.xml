@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <!-- Circle wrapper like the other dashboard icons -->
+    <path
+        android:strokeColor="#4F266A"
+        android:strokeWidth="4"
+        android:fillColor="#00000000"
+        android:pathData="M32,4 C16.5,4 4,16.5 4,32 C4,47.5 16.5,60 32,60 C47.5,60 60,47.5 60,32 C60,16.5 47.5,4 32,4 Z" />
+    <!-- Winding trail / map path -->
+    <path
+        android:strokeColor="#4F266A"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M20,44 C26,44 26,34 32,34 C38,34 38,22 44,22" />
+    <!-- Start node -->
+    <path
+        android:fillColor="#C78F1E"
+        android:pathData="M20,44 A4,4 0 1,0 20,44.1 Z" />
+    <!-- Middle node -->
+    <path
+        android:fillColor="#4F266A"
+        android:pathData="M32,34 A4,4 0 1,0 32,34.1 Z" />
+    <!-- Flag / Destination Star on top node -->
+    <path
+        android:fillColor="#C78F1E"
+        android:pathData="M44,14 L46,19 L51,19.5 L47.5,23 L48.5,28 L44,25.5 L39.5,28 L40.5,23 L37,19.5 L42,19 Z" />
+</vector>

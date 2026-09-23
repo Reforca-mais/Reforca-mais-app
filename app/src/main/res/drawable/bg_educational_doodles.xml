@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="640dp"
+    android:viewportWidth="360"
+    android:viewportHeight="640">
+
+    <!-- Subtle school doodles pattern -->
+    <!-- Book 1 -->
+    <path
+        android:strokeColor="#1E4F266A"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M40,50 C50,45 60,45 70,50 L70,75 C60,70 50,70 40,75 Z M70,50 C80,45 90,45 100,50 L100,75 C90,70 80,70 70,75 Z" />
+
+    <!-- Pencil 1 -->
+    <path
+        android:strokeColor="#1E4F266A"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M270,60 L290,40 L300,50 L280,70 Z M270,60 L265,68 L273,63 Z" />
+
+    <!-- Graduation cap -->
+    <path
+        android:strokeColor="#1E4F266A"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M160,35 L190,25 L220,35 L190,45 Z M175,40 L175,55 C175,60 205,60 205,55 L205,40 M220,35 L225,48" />
+
+    <!-- Backpack -->
+    <path
+        android:strokeColor="#1E4F266A"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M50,160 C50,145 80,145 80,160 L85,190 L45,190 Z M55,165 L75,165 M50,175 L80,175" />
+
+    <!-- Apple -->
+    <path
+        android:strokeColor="#1E4F266A"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M290,170 C280,160 270,175 270,185 C270,195 285,200 290,195 C295,200 310,195 310,185 C310,175 300,160 290,170 Z M290,170 C290,162 295,158 300,158" />
+
+    <!-- Atom / Science -->
+    <path
+        android:strokeColor="#1E4F266A"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M210,180 C225,170 235,190 220,200 C205,210 195,190 210,180 Z M220,180 C205,170 195,190 210,200 C225,210 235,190 220,180 Z" />
+
+    <!-- Ruler -->
+    <path
+        android:strokeColor="#1E4F266A"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M30,300 L90,300 L90,320 L30,320 Z M45,300 L45,310 M60,300 L60,314 M75,300 L75,310" />
+
+    <!-- Star / Note -->
+    <path
+        android:strokeColor="#1E4F266A"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M310,340 L313,348 L321,349 L315,355 L317,363 L310,359 L303,363 L305,355 L299,349 L307,348 Z" />
+
+    <!-- School building -->
+    <path
+        android:strokeColor="#1E4F266A"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M50,470 L70,450 L90,470 L90,500 L50,500 Z M65,500 L65,485 L75,485 L75,500 M70,450 L70,440" />
+
+    <!-- Open book 2 -->
+    <path
+        android:strokeColor="#1E4F266A"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M270,460 C280,455 290,455 300,460 L300,480 C290,475 280,475 270,480 Z M300,460 C310,455 320,455 330,460 L330,480 C320,475 310,475 300,480 Z" />
+
+    <!-- Alphabet ABC -->
+    <path
+        android:strokeColor="#1E4F266A"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M170,550 L176,535 L182,550 M172,545 L180,545" />
+
+</vector>

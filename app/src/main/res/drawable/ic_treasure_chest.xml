@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Chest Base -->
+    <path
+        android:fillColor="#4F266A"
+        android:pathData="M8,20 L40,20 L38,40 L10,40 Z" />
+    <!-- Chest Lid -->
+    <path
+        android:fillColor="#C78F1E"
+        android:pathData="M6,14 C6,10 12,8 24,8 C36,8 42,10 42,14 L40,20 L8,20 Z" />
+    <!-- Metal Bands -->
+    <path
+        android:fillColor="#E5A823"
+        android:pathData="M16,8 L20,8 L19,40 L15,40 Z M28,8 L32,8 L33,40 L29,40 Z" />
+    <!-- Lock / Keyhole -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,18 C26,18 27.5,19.5 27.5,21.5 C27.5,22.8 26.8,23.9 25.8,24.5 L26,27 L22,27 L22.2,24.5 C21.2,23.9 20.5,22.8 20.5,21.5 C20.5,19.5 22,18 24,18 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Reforça+",
+  "description": "Plataforma de alfabetização inclusiva e acessível com narradora inteligente Rê para jovens e adultos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

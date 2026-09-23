@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <!-- Outer ring with dots like in the mockup -->
+    <path
+        android:strokeColor="#4F266A"
+        android:strokeWidth="3.5"
+        android:fillColor="#00000000"
+        android:pathData="M32,6 C17.6,6 6,17.6 6,32 C6,46.4 17.6,58 32,58 C46.4,58 58,46.4 58,32 C58,17.6 46.4,6 32,6 Z" />
+    <!-- Head -->
+    <path
+        android:fillColor="#4F266A"
+        android:pathData="M32,16 C34.5,16 36.5,18 36.5,20.5 C36.5,23 34.5,25 32,25 C29.5,25 27.5,23 27.5,20.5 C27.5,18 29.5,16 32,16 Z" />
+    <!-- Arms -->
+    <path
+        android:strokeColor="#4F266A"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M16,28 L48,28" />
+    <!-- Torso & Legs -->
+    <path
+        android:strokeColor="#4F266A"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M32,25 L32,38 L22,50 M32,38 L42,50" />
+    <!-- Little nodes on circle -->
+    <path
+        android:fillColor="#C78F1E"
+        android:pathData="M32,3 A3,3 0 1,0 32,9 A3,3 0 1,0 32,3 Z
+                         M3,32 A3,3 0 1,0 3,38 A3,3 0 1,0 3,32 Z
+                         M61,32 A3,3 0 1,0 61,38 A3,3 0 1,0 61,32 Z
+                         M18,52 A3,3 0 1,0 18,58 A3,3 0 1,0 18,52 Z
+                         M46,52 A3,3 0 1,0 46,58 A3,3 0 1,0 46,52 Z" />
+</vector>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <!-- Ground / soil mound -->
+    <path
+        android:fillColor="#4F266A"
+        android:pathData="M16,52 C24,48 40,48 48,52 L48,56 L16,56 Z" />
+    <!-- Stem -->
+    <path
+        android:strokeColor="#C78F1E"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M32,50 C32,36 30,26 28,18" />
+    <!-- Left Leaf -->
+    <path
+        android:fillColor="#C78F1E"
+        android:pathData="M30,34 C20,34 14,24 16,18 C22,18 30,26 30,34 Z" />
+    <!-- Right Leaf -->
+    <path
+        android:fillColor="#4F266A"
+        android:pathData="M30,26 C36,26 46,18 44,12 C38,12 30,20 30,26 Z" />
+</vector>
